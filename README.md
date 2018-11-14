@@ -17,3 +17,5 @@ Open
    1. Selenium JavaScript
 1. Assertion Library
    1. Chai
+1. Single Page App
+1. Responsive Design
