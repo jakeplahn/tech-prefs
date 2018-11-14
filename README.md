@@ -14,4 +14,5 @@ Open
 1. CSS
 1. Integration Testing
 1. UI Testing
+   1. Selenium JavaScript
 1. Assertion Library
