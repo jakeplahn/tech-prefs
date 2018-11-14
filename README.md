@@ -16,3 +16,4 @@ Open
 1. UI Testing
    1. Selenium JavaScript
 1. Assertion Library
+   1. Chai
