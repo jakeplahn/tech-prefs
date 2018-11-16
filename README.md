@@ -11,6 +11,7 @@ Closed
    1. Selenium JavaScript
 1. Framework: Phoenix
 1. PostgreSQL
+1. Responsive UI: Skeleton and Bootstrap
 
 Open
 1. CSS
