@@ -14,7 +14,6 @@ Closed
 
 Open
 1. CSS
-1. Integration Testing
 1. Assertion Library
    1. Chai
 1. Single Page App
